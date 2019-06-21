@@ -1,0 +1,5 @@
+abc=int(input())
+sum=0
+for i in range(1,abc+1):
+ sum+=i
+print(sum)
